@@ -43,9 +43,12 @@ All books live in the `/library` folder. Anyone can contribute.
 ```
 ComparativeReligionBooks/
 │
-├── 📁 library/          ← All PDF books live here
-│   ├── book-title.pdf
-│   ├── book-title.pdf
+├── 📁 library/          ← All PDFs live here, organized by topic
+│   ├── 📁 islam/
+│   ├── 📁 christianity/
+│   ├── 📁 comparative-religion/
+│   ├── 📁 philosophy/
+│   ├── 📁 social-questions/
 │   └── ...
 │
 └── 📄 README.md
